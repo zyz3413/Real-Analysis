@@ -10,5 +10,5 @@ Also, the exercises do not provide much scaffolding.
 
 In terms of the level it's pitched at, it is written for beginners, but at the same time it doesn't go into much detail in theorem-proving strategies.
 
-Some of the proofs could be broken down more to make the strategy easier to understand. For example, the proof of the Heine-Borel theorem could be broken down more.
+Some of the proofs could be broken down more to make the strategy easier to understand. For example, the proof of the Heine-Borel theorem could be broken down more. I tried to do this in my videos.
 
