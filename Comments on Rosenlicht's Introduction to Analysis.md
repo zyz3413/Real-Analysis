@@ -12,4 +12,3 @@ In terms of the level it's pitched at, it is written for beginners, but at the s
 
 Some of the proofs could be broken down more to make the strategy easier to understand. For example, the proof of the Heine-Borel theorem could be broken down more.
 
-
